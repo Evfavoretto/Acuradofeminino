@@ -516,13 +516,9 @@
           <div class="about-quote">“Eu não ensino. Eu desperto.”</div>
         </div>
 
-        <div class="about-photo">
-          <!-- Trocar por foto real de Alinne se desejar -->
-          <span>
-            Espaço reservado para a foto da Alinne ou uma arte do projeto
-            <strong>The Women Mentoring</strong>.
-          </span>
-        </div>
+      <div class="about-photo" style="padding:0; border:0;">
+  <img src="alinne.jpg" alt="Foto de Alinne" style="width:100%; border-radius:20px; display:block;">
+</div>
       </div>
     </div>
   </section>
