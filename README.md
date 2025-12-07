@@ -391,9 +391,7 @@
   <section class="hero">
     <div class="wrap">
       <div class="hero-card">
-        <img src="logo-the-women-mentoring.png" alt="Logo The Women Mentoring" class="logo">
-
-        <div class="kicker">The Women Mentoring apresenta</div>
+        <img src="logo.jpg" alt="Logo The Women Mentoring" class="logo">
 
         <h1 class="hero-title">A Cura do Feminino</h1>
         <p class="hero-sub">O retorno da mulher que se perdeu de si mesma.</p>
